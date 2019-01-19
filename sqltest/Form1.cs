@@ -32,12 +32,13 @@ namespace sqltest
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string server = textBox1.Text;
+                        string server = textBox1.Text;
             string login = textBox2.Text;
             string password = textBox3.Text;
 
             if (server.Trim() == "" || password.Trim() == "" || login.Trim() == "")
             {
+                MessageBox.Show("Текст введи");
                 return;
             }
 
@@ -52,7 +53,15 @@ namespace sqltest
                 "pwd={2};" +
                 "old guids=true;", server, login, password);
 
-            SQLClass.OpenConnection();
+            try
+            {
+                SQLClass.OpenConnection();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Неправильный сервер" + ex.Message);
+                return;
+            }
 
             SQLClass.Insert(sql);
 
