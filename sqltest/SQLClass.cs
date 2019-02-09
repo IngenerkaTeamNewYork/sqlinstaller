@@ -77,6 +77,7 @@ namespace sqltest
         {
             List<String> res = new List<String>();
             MySqlCommand q = new MySqlCommand(query, CONN);
+            q.CommandTimeout = 1;
             if (CONN.State != ConnectionState.Open)
             {
                 CONN.Open();
