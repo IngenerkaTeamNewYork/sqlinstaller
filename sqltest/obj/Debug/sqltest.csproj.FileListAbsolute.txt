@@ -1,1 +1,11 @@
 c:\users\student\documents\visual studio 2013\Projects\sqltest\sqltest\bin\Debug\sqltest.exe.config
+C:\Users\Student\Desktop\sqltest-master\sqltest\bin\Debug\sqltest.exe.config
+C:\Users\Student\Desktop\sqltest-master\sqltest\obj\Debug\sqltest.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\sqltest-master\sqltest\obj\Debug\sqltest.Properties.Resources.resources
+C:\Users\Student\Desktop\sqltest-master\sqltest\obj\Debug\sqltest.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\sqltest-master\sqltest\bin\Debug\sqltest.exe
+C:\Users\Student\Desktop\sqltest-master\sqltest\bin\Debug\sqltest.pdb
+C:\Users\Student\Desktop\sqltest-master\sqltest\bin\Debug\MySql.Data.dll
+C:\Users\Student\Desktop\sqltest-master\sqltest\obj\Debug\sqltest.exe
+C:\Users\Student\Desktop\sqltest-master\sqltest\obj\Debug\sqltest.pdb
+C:\Users\Student\Desktop\sqltest-master\sqltest\obj\Debug\sqltest.Form1.resources
