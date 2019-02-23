@@ -8,7 +8,7 @@ using MySql.Data;
 using MySql.Data.MySqlClient;
 using System.Reflection;
 
-namespace sqltest
+namespace sqlinstaller
 {
     public static class SQLClass
     {

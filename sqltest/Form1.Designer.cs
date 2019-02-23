@@ -1,4 +1,4 @@
-﻿namespace sqltest
+﻿namespace sqlinstaller
 {
     partial class Form1
     {

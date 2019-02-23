@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace sqltest.Properties
+namespace sqlinstaller.Properties
 {
 
 
